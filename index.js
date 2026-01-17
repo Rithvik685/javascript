@@ -71,7 +71,7 @@ function increase(){
 increase(obj)
 console.log(obj)
 
-objects
+// objects
 // objects are mapped or copied by their references
 let x = 10;
 let y = x;
